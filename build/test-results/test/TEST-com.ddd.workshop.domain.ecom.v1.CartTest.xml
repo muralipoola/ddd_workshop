@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ddd.workshop.domain.ecom.v1.CartTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-12-10T12:11:29" hostname="Muralis-MacBook-Pro.local" time="0.038">
+  <properties/>
+  <testcase name="mustAddIPadProItemToCart()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.02"/>
+  <testcase name="mustOfferPriceLessThanCompetitorPrice()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.004"/>
+  <testcase name="mustAddMultipleQuantitiesOfCricketBatToCart()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.001"/>
+  <testcase name="mustAddHeroInkPenItemToCart()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.0"/>
+  <testcase name="mustRemoveAnExistingItemFromTheCart()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.001"/>
+  <testcase name="mustReturnDeletedProductsFromCart()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.003"/>
+  <testcase name="mustCalculateTotalCostForTheOrder()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.003"/>
+  <testcase name="mustCompareTwoCartsOnEquality()" classname="com.ddd.workshop.domain.ecom.v1.CartTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
